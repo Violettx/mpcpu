@@ -1,0 +1,2 @@
+# mpcpu
+在macOS系统下解锁小米笔记本PRO以及小米笔记本GTX的CPU功耗墙
