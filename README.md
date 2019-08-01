@@ -22,12 +22,9 @@ Tip:同一脚本 选其一复制到终端内即可使用
 
 解锁BIOS电压限制：
 
-进入Windows，用管理员身份运行voltage_unlock.cmd
-
-等待进程结束后重启
+进入Windows，用管理员身份运行voltage_unlock.cmd 等待进程结束后重启
 
 随后你便可以使用本脚本 否则 请输入10退出
-
 
 (1) 安装脚本主程序
 
