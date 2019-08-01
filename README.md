@@ -1,30 +1,12 @@
 # mpcpu
 
 ## 脚本使用方法
-
 sh -c "$(curl -fsSL https://pasi.cat/sh/mpcpu.sh)"
-
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/Pasi-Studio/mpcpu/master/mpcpu.sh)"
-
 Tip:同一脚本 选其一复制到终端内即可使用
-
 ## 脚本界面
-
 在macOS系统下解锁小米笔记本PRO以及小米笔记本GTX的CPU功耗墙
-
-============================================
-
-  ______   ______   ______   _ 
-  
- |  __  | |  __  | |  ____| | |
- 
- | |__| | | |__| | | |____  | |
- 
- |  ____| |  __  | |____  | | |
- | |      | |  | |  ____| | | |
- |_|      |_|  |_| |______| |_|
 此脚本只限于小米笔记本Pro 和 小米笔记本GTX!
-============================================
 安装前要 !important
 重启进入Windows作业系统（可以WTG启动）
 下载解锁工具 https://file.pasi.cat/powercpu/BIOS_unlock.zip
