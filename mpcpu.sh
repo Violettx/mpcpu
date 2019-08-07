@@ -117,7 +117,7 @@ function command3() {
     sudo "$position"/voltageshift removelaunchd
 }
 function command4() {
-    sudo "$position"/voltageshift offset $volta $volta
+    sudo "$position"/voltageshift offset $volta $volta $volta
 }
 function command5() {
     sudo "$position"/voltageshift info
